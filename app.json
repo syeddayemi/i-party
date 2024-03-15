@@ -14,6 +14,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "fonts": [
+      "./assets/fonts/DiaClone.otf"
+    ],
     "ios": {
       "supportsTablet": true
     },
